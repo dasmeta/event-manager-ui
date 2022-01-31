@@ -1,0 +1,32 @@
+{
+  "name": "@dasmeta/event-manager-ui",
+  "description": "This is the @dasmeta/event-manager-ui simple put powerful UI.",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "private": false,
+  "license": "UNLICENSED",
+  "author": "Aram Karapetyan <aram@dasmeta.com> (https://www.dasmeta.com/)",
+  "scripts": {
+    "build": "rm -rf lib && babel src --out-dir lib"
+  },
+  "keywords": [
+    "ui",
+    "event",
+    "dasmeta",
+    "publish",
+    "republish",
+    "event manager",
+    "event monitoring"
+  ],
+  "peerDependencies": {
+    "antd": "^4.x",
+    "lodash": "^4.x",
+    "react": "^16.13.x"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "prettier": "^1.17.1"
+  }
+}

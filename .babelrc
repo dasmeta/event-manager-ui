@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/preset-react"],
+  "ignore": [
+    "src/EventBoard/components/ReprocessErrorForm.js",
+    "src/EventBoard/components/ReprocessErrorModal.js"
+  ]
+}
