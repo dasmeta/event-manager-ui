@@ -1,6 +1,6 @@
-*
-!lib
-!package.json
-!yarn.lock
-!README.md
-!LICENSE
+.idea/
+node_modules/
+src/*
+.vscode/
+*.log
+publish/*
