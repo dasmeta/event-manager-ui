@@ -1,7 +1,7 @@
 {
   "name": "@dasmeta/event-manager-ui",
   "description": "This is the @dasmeta/event-manager-ui simple put powerful UI.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "private": false,
   "license": "UNLICENSED",
